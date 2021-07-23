@@ -14,3 +14,17 @@ stress-resistant and persistent. I prefer to work in a team and I enjoy helping 
 
 * version control: Git
 
+***Code example:***
+```
+<form action="/questions">Какой нибудь запрос?
+<input type="text">
+<br>
+<input type="text">
+<br>
+<select multiple>
+<option>Первый вариант</option>
+<option>Второй вариант</option>
+</select>
+<button>нажми</button>
+</form>
+```
