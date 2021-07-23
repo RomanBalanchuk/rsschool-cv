@@ -28,3 +28,17 @@ stress-resistant and persistent. I prefer to work in a team and I enjoy helping 
 <button>нажми</button>
 </form>
 ```
+***Experience:***
+
+I don't have experience in developing.
+***Education:***
+
+* RS courses (2021 - *)
+
+* Belarusian State Technological University (2013 - 2019)
+
+* Mozyr State Polytechnical College (2009 - 2013)
+
+***English:***
+
+Pre-Intermediate level.
