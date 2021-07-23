@@ -31,6 +31,7 @@ stress-resistant and persistent. I prefer to work in a team and I enjoy helping 
 ***Experience:***
 
 I don't have experience in developing.
+
 ***Education:***
 
 * RS courses (2021 - *)
